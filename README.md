@@ -25,5 +25,4 @@ We created an app that can create on-demand stories with customized content, cha
 as well as several for-fun styles that would be suited for kids.
 
 ## View Our Demo Video
-[![Watch the video](https://img.youtube.com/vi/4ZrfMNRkM7M/maxresdefault.jpg)] 
 [![Watch the video](https://img.youtube.com/vi/4ZrfMNRkM7M/maxresdefault.jpg)](https://www.youtube.com/watch?v=4ZrfMNRkM7M)
