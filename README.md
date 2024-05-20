@@ -1,4 +1,4 @@
-# FoodWasteWatchers-
+# FoodWasteWatchers
 
 ## What is FoodWasteWatchers?
 
