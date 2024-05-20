@@ -6,8 +6,6 @@ Our project uses generative AI to help individuals use ingredients in the fridge
 
 ## Why FoodWasteWatchers?
 
-Why Food Waste Watchers?
-
 Our app lets users
 
 Customize Food Items: Users can input a variety of food items and receive tailored storage advice and expiration reminders.
