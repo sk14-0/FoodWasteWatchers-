@@ -15,12 +15,6 @@ Customizable Recipes: Users can input the ingredients they have on hand, and the
 Visual Recognition and Recipe Suggestions:
 Image Uploads for Ingredient Identification: Users can upload photos of their ingredients, and the AI will recognize and suggest recipes based on these images.
 
-## Our Solution
-
-![FoodWasteWatchers Demo Screenshot](/screenshot.png)
-
-We created an app that can create on-demand stories with customized content, characters, and images. There are a variety of languages and cultural storytelling styles available,
-as well as several for-fun styles that would be suited for kids.
 
 ## View Our Demo Video
 [![Watch the video](https://img.youtube.com/vi/4ZrfMNRkM7M/maxresdefault.jpg)](https://www.youtube.com/watch?v=4ZrfMNRkM7M)
